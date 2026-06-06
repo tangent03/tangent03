@@ -31,9 +31,9 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [💬 Yapp!](https://github.com/tangent03/BookNest) | Real-time chat app with WebSockets & JWT auth | React, Node, MongoDB, Socket.io |
+| [💬 Yapp!]([https://github.com/tangent03/BookNest](https://github.com/tangent03/chatapp_frontend)) | Real-time chat app with WebSockets & JWT auth | React, Node, MongoDB, Socket.io |
 | [🏠 Hostel Suvidha](https://github.com/tangent03/BookNest) | Student hostel management platform | React, Node, MongoDB |
-| [📚 BookNest](https://github.com/tangent03/BookNest) | Full-stack e-commerce platform for books | React, Node, MongoDB |
+| [📚 BookNest]([https://github.com/tangent03/BookNest](https://github.com/tangent03/BookNest_frontend)) | Full-stack e-commerce platform for books | React, Node, MongoDB |
 
 ---
 
